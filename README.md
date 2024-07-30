@@ -53,7 +53,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/YallicoOwner/Final.git && cd Final
+git clone https://github.com/YallicoPe/Bot.git && cd Bot
 ```
 
 ```bash
